@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "DF1FE89C-DA69-4FA3-B808-ECBDF554DE10"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "027C6F5D-BAA6-482B-BD5A-C43239E5BE48"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Worklog/Model/ScreenTimeSelectAppsModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "54"
+            endingLineNumber = "54"
+            landmarkName = "saveFamilyActivitySelection(selection:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "23FBFF8B-8BDB-4D2A-A892-FF9AB46B589A"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Worklog/Model/ScreenTimeSelectAppsModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "105"
+            endingLineNumber = "105"
+            landmarkName = "startAppRestrictions()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "23FBFF8B-8BDB-4D2A-A892-FF9AB46B589A - 3a2c41e16a93b7b8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Worklog.ScreenTimeSelectAppsModel.startAppRestrictions() -&gt; ()"
+                  moduleName = "Worklog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Workspaces/Native/IOS/Worklog/Worklog/Model/ScreenTimeSelectAppsModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "108"
+                  endingLineNumber = "108"
+                  offsetFromSymbolStart = "549">
+               </Location>
+               <Location
+                  uuid = "23FBFF8B-8BDB-4D2A-A892-FF9AB46B589A - 3a2c41e16a93b75d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Worklog.ScreenTimeSelectAppsModel.startAppRestrictions() -&gt; ()"
+                  moduleName = "Worklog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Workspaces/Native/IOS/Worklog/Worklog/Model/ScreenTimeSelectAppsModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "105"
+                  endingLineNumber = "105"
+                  offsetFromSymbolStart = "325">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "15E1D8BF-546C-4FD2-9E8F-68BF7B0112D4"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Worklog/Model/ScreenTimeSelectAppsModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "126"
+            endingLineNumber = "126"
+            landmarkName = "startAppRestrictions()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "15E1D8BF-546C-4FD2-9E8F-68BF7B0112D4 - 3a2c41e16a93b5ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Worklog.ScreenTimeSelectAppsModel.startAppRestrictions() -&gt; ()"
+                  moduleName = "Worklog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Workspaces/Native/IOS/Worklog/Worklog/Model/ScreenTimeSelectAppsModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "2736">
+               </Location>
+               <Location
+                  uuid = "15E1D8BF-546C-4FD2-9E8F-68BF7B0112D4 - 3a2c41e16a93b5ea"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Worklog.ScreenTimeSelectAppsModel.startAppRestrictions() -&gt; ()"
+                  moduleName = "Worklog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Workspaces/Native/IOS/Worklog/Worklog/Model/ScreenTimeSelectAppsModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "126"
+                  endingLineNumber = "126"
+                  offsetFromSymbolStart = "2041">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21994C9A-5A08-4A82-A165-B46DDC8FB843"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DeviceActivityMonitorExtension/DeviceActivityMonitorExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "68"
+            endingLineNumber = "68"
+            landmarkName = "intervalDidStart(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "EF1699CC-605E-4297-8550-B47A8D4E6BA1"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "WorklogReportExtension/TotalActivityReport.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "23"
+            endingLineNumber = "23"
+            landmarkName = "TotalActivityReport"
+            landmarkType = "14">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "35DB29A5-AF33-4358-805E-B35504D73961"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Worklog/Model/ScreenTimeSelectAppsModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "101"
+            endingLineNumber = "101"
+            landmarkName = "startMonitoring(scheduleStart:scheduleEnd:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "35DB29A5-AF33-4358-805E-B35504D73961 - f5c5f9056b1cec6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Worklog.ScreenTimeSelectAppsModel.startMonitoring(scheduleStart: Foundation.DateComponents, scheduleEnd: Foundation.DateComponents) -&gt; ()"
+                  moduleName = "Worklog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Workspaces/Native/IOS/Worklog/Worklog/Model/ScreenTimeSelectAppsModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "2726">
+               </Location>
+               <Location
+                  uuid = "35DB29A5-AF33-4358-805E-B35504D73961 - f5c5f9056b1cec6a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Worklog.ScreenTimeSelectAppsModel.startMonitoring(scheduleStart: Foundation.DateComponents, scheduleEnd: Foundation.DateComponents) -&gt; ()"
+                  moduleName = "Worklog"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/apple/Workspaces/Native/IOS/Worklog/Worklog/Model/ScreenTimeSelectAppsModel.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "101"
+                  endingLineNumber = "101"
+                  offsetFromSymbolStart = "2976">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "001C4BC9-B637-40B4-98AF-4D3AF8CB1791"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DeviceActivityMonitorExtension/DeviceActivityMonitorExtension.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "71"
+            endingLineNumber = "71"
+            landmarkName = "intervalDidStart(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
